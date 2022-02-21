@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MessageApplication</string>
+    <string name="btnSend">send</string>
+    <string name="textMessage">type the message</string>
+</resources>
