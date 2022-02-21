@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnS;
     EditText etM;
+    EditText et;
+
 
     public static final String EXTRA_MSG="com.gigi.messageapplication.msg";
 
@@ -22,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
 
         btnS=findViewById(R.id.btnSend);
         etM=findViewById(R.id.etMessage);
+
+        et=findViewById(R.id.etMessage);
 
     }
 
